@@ -83,7 +83,7 @@ Apk file for app installation can be found on our latest release [here]() or [he
 ## Installation
 ### 1. Clone this Project to your Computer
 ```bash
-git clone https://github.com/ffadhl/PathWay.git
+https://github.com/CH2-PS447-PathWay/CH2-PS447-PathWay-MD
 ```
 or you can use Android Studio 
 File > New > Project from Version Control ...
